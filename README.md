@@ -29,7 +29,7 @@ O projeto utiliza um banco de dados SQLite chamado `loja.db`, com uma única tab
 
 > 💡 *Adicione aqui imagens reais da execução do código no terminal, como por exemplo o menu, um usuário sendo cadastrado, listagem, etc.*
 
-blob:https://web.whatsapp.com/2ea581e5-bccd-4eee-a17e-2984a4cdc5fd
+![image](https://github.com/user-attachments/assets/7087d83c-5e44-478f-a678-47667b597761)
 
 ## 📦 Bibliotecas Utilizadas
 
