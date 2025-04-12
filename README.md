@@ -25,7 +25,7 @@ O projeto utiliza um banco de dados SQLite chamado `loja.db`, com uma única tab
 
 ### ✅ Execução do Menu no Terminal
 
-![Sistema rodando no terminal](3b77a854-99c0-46c7-8458-b0e92cb28447)
+![Sistema rodando no terminal](blob:https://web.whatsapp.com/5e66a0e6-032c-4fe7-b451-771eec77fd45)
 
 > 💡 *Adicione aqui imagens reais da execução do código no terminal, como por exemplo o menu, um usuário sendo cadastrado, listagem, etc.*
 
