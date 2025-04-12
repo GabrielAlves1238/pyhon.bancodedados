@@ -25,11 +25,14 @@ O projeto utiliza um banco de dados SQLite chamado `loja.db`, com uma única tab
 
 ### ✅ Execução do Menu no Terminal
 
-![Sistema rodando no terminal]()
+![image](https://github.com/user-attachments/assets/58c58dd8-10a5-4858-bb37-dd4f29ea6858)
+![image](https://github.com/user-attachments/assets/86db1467-af45-44e1-99c7-5324b4f8a5ba)
+![image](https://github.com/user-attachments/assets/c88cf126-26e1-4981-b090-e37afccb25cb)
+![image](https://github.com/user-attachments/assets/32271288-640b-440d-9dcb-74ac1345dfd2)
+![image](https://github.com/user-attachments/assets/da71db7f-e0cb-44f1-9d34-67d91758643a)
+![image](https://github.com/user-attachments/assets/c287d603-41f8-4983-a72d-32a06f56e59e)
+![image](https://github.com/user-attachments/assets/e5b8b688-b9dd-4352-8d24-2c3bb7cd7230)
 
-> 💡 *Adicione aqui imagens reais da execução do código no terminal, como por exemplo o menu, um usuário sendo cadastrado, listagem, etc.*
-
-![image](https://github.com/user-attachments/assets/7087d83c-5e44-478f-a678-47667b597761)
 
 ## 📦 Bibliotecas Utilizadas
 
